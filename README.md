@@ -1,6 +1,5 @@
 ### Learn javascript
 
-This is a 12-Week (84 day) Javascript course
 It gives you a clear path from "Beginner -> Advanced -> to Professional"
 
 Also includes multiple real projects, not just theory :)
