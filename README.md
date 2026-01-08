@@ -12,9 +12,7 @@ Also includes multiple real projects, not just theory :)
 - Writing bad code first is mandatory
 - Consistency beats talent every time
 
-## 1-5 Phases
-
-Phase 1 - Foundations (1-14 day)
+## Phase 1 - Foundations (1-14 day)
 
 ### Day 1 - Setup
 
