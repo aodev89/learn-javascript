@@ -159,7 +159,7 @@ Also includes multiple real projects, not just theory :)
 
 ### Project: Build your own utility library
 
-## Phase 5 - Professional level (Day 71-84)
+## Phase 5 - Professional level
 
 - Modules and bundlers
 - Testing basics (Jest)
