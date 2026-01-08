@@ -1,7 +1,6 @@
 ### Learn javascript
 
 It gives you a clear path from "Beginner -> Advanced -> to Professional"
-
 Also includes multiple real projects, not just theory :)
 
 ### important mindset:
@@ -11,46 +10,46 @@ Also includes multiple real projects, not just theory :)
 - Writing bad code first is mandatory
 - Consistency beats talent every time
 
-## Phase 1 - Foundations (1-14 day)
+## Phase 1 - Foundations
 
-### Day 1 - Setup
+### Setup
 
 - Install Node.js
 - Setup VS Code + Prettier + ESLint
 - What Javascript is and where it runs
 - Console.log, comments, running JS files
 
-### Day 2 - Variable and data types
+### Variable and data types
 
 - [Var - Let - Const]
 - Primitive types: String, Number, Boolean, Null, Undefined, Symbol
 - typeof
 
-### Day 3 - Operators and expressions
+### Operators and expressions
 
 - Arithmetic, Comparison, Logical operators
 - Truthy vs Falsy values
 - Short-circuiting
 
-### Day 4 - Control flow
+### Control flow
 
 - if / else
 - Switch
 - Ternary operator
 
-### Day 5 - Functions
+### Functions
 
 - Function declarations vs expressions
 - Parameters and return values
 - Arrow functions
 
-### Day 6 - Arrays
+### Arrays
 
 - Creating arrays
 - Indexing and mutating
 - Common methods: Push, pop, shift, unshift, slice, splice
 
-### Day 7 - Objects
+### Objects
 
 - Object literals
 - Dot vs bracket notation
@@ -60,40 +59,40 @@ Also includes multiple real projects, not just theory :)
 
 (optional)
 
-### Day 8 - Loops
+### Loops
 
 - For, while, do..while
 - Looping arrays
 
-### Day 9 - Array methods
+### Array methods
 
 - forEach, map, filter, reduce
 - When to use each
 
-### Day 10 - Strings and numbers
+### Strings and numbers
 
 - String methods
 - Template literals
 - Number quirks (NaN, floating point issues)
 
-### Day 11 - Scope and hoisting
+### Scope and hoisting
 
 - Global vs local scope
 - Block scope
 - Hoisting explained visually
 
-### Day 12 - Error handling
+### Error handling
 
 - try / catch
 - Throwing errors
 
-### Day 13 - Writing clean code
+### Writing clean code
 
 - Naming conventions
 - DRY principle
 - Small functions
 
-### Day 14 - Review and practice
+### Review and practice
 
 - Solve 10 JS problems
 
@@ -101,38 +100,38 @@ Also includes multiple real projects, not just theory :)
 
 (optional)
 
-## Phase 2 - DOM and browser (Day 15-35)
+## Phase 2 - DOM and browser
 
-### Day 15 - The DOM explained
+### The DOM explained
 
 - What the DOM is
 - document.querySelector
 
-### Day 16 - DOM manipulation
+### DOM manipulation
 
 - Changing text, styles, attributes
 
-### Day 17 - Events
+### Events
 
 - click, submit, input
 - Event listeners
 
-### Day 18 - Forms and input
+### Forms and input
 
 - Handling form data
 - Prevent default behavior
 
-### Day 19 - DOM traversal
+### DOM traversal
 
 - Parents, children, siblings
 
-### Day 20 - Review
+### Review
 
 ### Project: Interactive Todo app
 
 (optional)
 
-## Phase 3 - Modern javascript (Day 36-56)
+## Phase 3 - Modern javascript
 
 ### ES6+
 
@@ -150,7 +149,7 @@ Also includes multiple real projects, not just theory :)
 
 ### Project: Weather App (API based)
 
-## Phase 4 - Deep javascript knowledge (Day 57-70)
+## Phase 4 - Deep javascript knowledge
 
 - Execution context and call stack
 - Closures
@@ -175,10 +174,10 @@ Also includes multiple real projects, not just theory :)
 
 ### Checklist:
 
-- [] You understand Js without memorization
-- [] You can debug confidently
-- [] You can explain async JS clearly
-- [] You can build apps from scratch
+- [ ] You understand Js without memorization
+- [ ] You can debug confidently
+- [ ] You can explain async JS clearly
+- [ ] You can build apps from scratch
 
 ### When youre ready:
 
