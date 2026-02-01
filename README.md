@@ -1,6 +1,7 @@
 ### Learn javascript
 
-It gives you a clear path from "Beginner -> Advanced -> to Professional"
+In This course we will walkthrough the book Javascript from beginner to professional. 
+It gives you a clear path from "Beginner -> Intermediate -> to Professional"
 Also includes multiple real projects, not just theory :)
 
 ### important mindset:
@@ -10,161 +11,76 @@ Also includes multiple real projects, not just theory :)
 - Writing bad code first is mandatory
 - Consistency beats talent every time
 
-## Phase 1 - Foundations
-
-### Setup
-
+### Setup:
 - Install Node.js
-- Setup VS Code + Prettier + ESLint
-- What Javascript is and where it runs
-- Console.log, comments, running JS files
+- Setup either Nvim or VS Code + Extention pack Prettier, ESLint
 
-### Variable and data types
+## Phase 1 - Foundations
+- Variables
+- Primitive data types
+- Analyzing and modifying data types
+- Operators
+- Multiple Values
+- Logic Statements
+- Loops
+- Functions
+- Classes
 
-- [Var - Let - Const]
-- Primitive types: String, Number, Boolean, Null, Undefined, Symbol
-- typeof
-
-### Operators and expressions
-
-- Arithmetic, Comparison, Logical operators
-- Truthy vs Falsy values
-- Short-circuiting
-
-### Control flow
-
-- if / else
-- Switch
-- Ternary operator
-
-### Functions
-
-- Function declarations vs expressions
-- Parameters and return values
-- Arrow functions
-
-### Arrays
-
-- Creating arrays
-- Indexing and mutating
-- Common methods: Push, pop, shift, unshift, slice, splice
-
-### Objects
-
-- Object literals
-- Dot vs bracket notation
-- Adding / removing properties
-
-### Mini project: Simple CLI calculator
-
-(optional)
-
-### Loops
-
-- For, while, do..while
-- Looping arrays
-
-### Array methods
-
-- forEach, map, filter, reduce
-- When to use each
-
-### Strings and numbers
-
+## Phase 2 - Built-in methods
+- Global JS methods
 - String methods
-- Template literals
-- Number quirks (NaN, floating point issues)
+- Math methods
+- Date methods
+- Array methods
+- Number methods
 
-### Scope and hoisting
+## Phase 3 - Document object model
+- HTML crash course
+- Introducing the BOM
+- Introducing the DOM
+- Types of DOM elements
+- Selecting page elements
 
-- Global vs local scope
-- Block scope
-- Hoisting explained visually
+## Phase 4 - Dynamic element manipulation using the DOM
+- Basic DOm traversing
+- Accessing elements in the DOM 
+- Element click handler
+- This and the DOM
+- Manipulating element style
+- Changing the classes of an element
+- Manipulating attributes
+- Event listeners on elements
+- Creating new elements
 
-### Error handling
+## Phase 5 - Interactive content and eventlisteners
+- Interactive content
+- Specifying events
+- The onload event handler
+- The mouse event handler
+- The event target property
+- DOM event flow
+- Onchange and onblur
+- The key event handler
+- Drag and drop elements
+- Form submission
+- Animating elements
 
-- try / catch
-- Throwing errors
+## Phase 6 - Intermediate Javascript
+- Regular expressions
+- Functions and the arguments object
+- Hoisting
+- Strict mode
+- Debugging
+- Using cookies
+- Local storage
+- JSON
 
-### Writing clean code
-
-- Naming conventions
-- DRY principle
-- Small functions
-
-### Review and practice
-
-- Solve 10 JS problems
-
-### Project: Todo list
-
-(optional)
-
-## Phase 2 - DOM and browser
-
-### The DOM explained
-
-- What the DOM is
-- document.querySelector
-
-### DOM manipulation
-
-- Changing text, styles, attributes
-
-### Events
-
-- click, submit, input
-- Event listeners
-
-### Forms and input
-
-- Handling form data
-- Prevent default behavior
-
-### DOM traversal
-
-- Parents, children, siblings
-
-### Review
-
-### Project: Interactive Todo app
-
-(optional)
-
-## Phase 3 - Modern javascript
-
-### ES6+
-
-- Destructuring
-- Spread and rest operators
-- Default parameters
-- Optional chaining
-
-### Asynchronous javascript
-
+## Phase 7 - Concurrency
+- Concurrency
 - Callbacks
 - Promises
-- Async / await
-- Fetch API
-
-### Project: Weather App (API based)
-
-## Phase 4 - Deep javascript knowledge
-
-- Execution context and call stack
-- Closures
-- this keyword
-- Prototypes and inheritance
-- Memory management
-
-### Project: Build your own utility library
-
-## Phase 5 - Professional level
-
-- Modules and bundlers
-- Testing basics (Jest)
-- Performance optimization
-- Common interview questions
+- Async / Await
+- Event loop
 
 ### Final project: (Choose one)
 
